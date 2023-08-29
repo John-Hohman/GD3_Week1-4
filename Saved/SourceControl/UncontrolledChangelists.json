@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/NewMap_HLOD0_Instancing.uasset",
 				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH.uasset",
 				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9.uasset",
 				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N.uasset",
@@ -85,7 +84,6 @@
 				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E.uasset",
 				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA.uasset",
 				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6.uasset",
-				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/__ExternalActors__/NewMap/4/86/0OUMNAIDIZR80LFZU6R34M.uasset",
 				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/NewMap.umap",
 				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/__ExternalActors__/Levels/NewMap/6/L8/AS2SBN2JB7X0Z2IW9FSKQS.uasset",
 				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/__ExternalObjects__/Levels/NewMap/3/LT/UYIG7RQ3M3263B1JL94EMS.uasset",
@@ -167,7 +165,11 @@
 				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/__ExternalActors__/Levels/NewMap/4/ZJ/KNHM1LO0IT12IJAWXU9MD9.uasset",
 				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/__ExternalActors__/Levels/NewMap/9/LQ/CS4JIE73E1JSDA3RCC5TSI.uasset",
 				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/Levels/NewMap.umap",
-				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/Levels/NewMap_HLOD0_Instancing.uasset"
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/Levels/NewMap_HLOD0_Instancing.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/ThirdPerson/Blueprints/BP_Projectile.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/ThirdPerson/Blueprints/Stamina_Widget.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/NewMap_HLOD0_Instancing.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Game-Design-3-Team/Github/GD3_Week1-4/Content/__ExternalActors__/NewMap/4/86/0OUMNAIDIZR80LFZU6R34M.uasset"
 			]
 		}
 	]
